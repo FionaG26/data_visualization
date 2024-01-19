@@ -15,5 +15,5 @@ def main():
     # Visualize ICU bed data
     plot_icu_beds(processed_data)
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
